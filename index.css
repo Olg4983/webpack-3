@@ -1,0 +1,10 @@
+body{
+    background: black;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+.js-img{
+    width: 200px;
+    height: 200px;
+}
